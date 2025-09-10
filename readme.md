@@ -21,6 +21,8 @@ In this lab, Wireshark is utilized to capture and analyze network traffic from G
 1. Open Wireshark in Linux terminal
 <img width="1556" height="808" alt="image" src="https://github.com/user-attachments/assets/e4128bb6-26cc-4511-9cd1-c58f5349571a" />
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
 
 2. Generate network traffic (Google) in a new terminal
 <img width="1106" height="778" alt="image" src="https://github.com/user-attachments/assets/1977890b-7c26-4602-a117-51e72bf4eaf1" />
