@@ -17,10 +17,7 @@ In this lab, Wireshark is utilized to capture and analyze network traffic from G
 - Wireshark
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+1. Open Wireshark in Linux terminal
+<img width="1556" height="808" alt="image" src="https://github.com/user-attachments/assets/e4128bb6-26cc-4511-9cd1-c58f5349571a" />
 
-Example below.
-
-*Ref 1: Network Diagram*
